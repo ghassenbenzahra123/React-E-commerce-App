@@ -1,10 +1,10 @@
 export const sliderItems = [
     {
         id: 1,
-        img: "https://content.asos-media.com/-/media/homepages/unisex/generic-hp/oct-2021/microsoftteams-image-(10).png",
+        img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         title: "SUMMER SALE",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-        bg: "f5fafd",
+        bg: "bec1ba",
     },
     {
         id: 2,
