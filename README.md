@@ -1,6 +1,6 @@
 # React E-commerce App (Redux, Styled Components, JWT Authen ,Stripe.js)
 
-Shoppy is a React and Node.js based eCommerce App. 
+Shoppy is a MERN stack eCommerce App. 
 
 Built with:
 * Node.js 
